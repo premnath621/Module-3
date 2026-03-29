@@ -36,3 +36,13 @@ result = remove(s)
 
 # Output
 print("Modified string:", result)
+```
+
+## Output:
+
+<img width="409" height="233" alt="image" src="https://github.com/user-attachments/assets/430a49fb-eef8-45b0-93b1-9e0dd6d1931f" />
+
+
+## Result:
+
+Thus, the Python program to remove the character at a specified index from a string was successfully executed and verified.
